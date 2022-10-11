@@ -1,6 +1,7 @@
 # ![image](https://user-images.githubusercontent.com/10432092/194757367-92c6da1e-4107-4a3c-a0ca-33cdd5e689bc.png) Commander's log
 
 ### 2022-10
+- Created: CSVTransformer script [https://github.com/Czupak/CSVTransformer]
 - Created: Browser extension to display prices as price/weight [https://github.com/Czupak/UOMBuddy].
 - Learning: Creating browser extensions.
 ### 2022-09
